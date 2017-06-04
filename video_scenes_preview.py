@@ -105,7 +105,7 @@ def main():
     video_capture.release()
     print "Captured Scene Changes: %d" %captured_frames
     duration = args.duration if args.duration is not None else 0.5
-    transform_to_gif(duration, video_name)
+    transform_to_gif(duration, "%s_%s_%.2f" %(video_name, mode, threshold))
 
 
 if __name__ == "__main__":
