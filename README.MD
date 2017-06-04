@@ -28,14 +28,14 @@ How much change in the video is considered a scene change. Best values falls bet
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 #### Output
-##### (threshold=0.2, duration=0.2, mode=simple)
+##### (threshold=0.2, duration=0.3, mode=simple)
 <img src="https://github.com/gustblima/scenes-previewer/raw/master/example/amazingnature_simple_0.20.gif" />
 
-##### (threshold=0.2, duration=0.35, mode=mse)
+##### (threshold=0.35, duration=0.3, mode=mse)
 <img src="https://github.com/gustblima/scenes-previewer/raw/master/example/amazingnature_mse_0.35.gif" />
 
 ***
 
 
 ##### Made by Gustavo de Biasi Lima.
-##### Just for Study.
+##### Just for study.
