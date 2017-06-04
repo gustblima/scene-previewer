@@ -3,10 +3,10 @@
 This code uses OpenCV, numpy and imageIO
 
 ## Parameters
-1. Input file => video.mp4
-2. Mode => simple
-3. Threshold => 0.2
-4. Gif Scene Duration => 0.5
+1. Input file --file => video.mp4
+2. Mode --mode => simple
+3. Threshold --threshold => 0.2
+4. Gif Scene Duration  --duration => 0.5
 
 ---
 
