@@ -48,8 +48,6 @@ def main():
         print "You need to specify the video path"
         exit(0)
 
-
-
     # video information
     video_name = video_path.split('.')[0]
     video_capture = cv2.VideoCapture(video_path)
