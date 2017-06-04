@@ -35,8 +35,6 @@ def transform_to_gif(duration, output):
 
 
 def main():
-
-
     parser =  argparse.ArgumentParser(description='Detect scene transition.')
     parser.add_argument("-f", "--file", help="Input File")
     parser.add_argument("-m", "--mode", help="Select mode to compare frames, choose 'mse' or 'simple' ")
